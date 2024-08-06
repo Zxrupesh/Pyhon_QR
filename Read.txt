@@ -1,0 +1,10 @@
+Created: 2024/04/08
+Auth: Rupesh RajBanshi
+
+Fell free to modify the program for the better use 😊.
+
+Note:
+        In this program you can create OR code by entering your names, links, etc. 
+        You choose your QR name as you like (Enter the name for the Qr code file: MY_QR).
+        A folder is created to save the QR (Enter the name of folder to save: Created_QR).
+        You will be able to save al the QR in same folder. 
